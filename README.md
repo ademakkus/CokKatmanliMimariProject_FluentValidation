@@ -1,0 +1,1 @@
+# CokKatmanliMimariProject_FluentValidation
